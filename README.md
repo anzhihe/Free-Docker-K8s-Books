@@ -95,3 +95,4 @@ You can find all the books listed below in [**book**](/book) folder of this repo
 * 循序渐进学Docker [[Download]](/book/循序渐进学Docker.pdf)
 * [云原生白皮书 & K8s、Docker面试题](https://chegva.com/4746.html)
 * [阿里巴巴云原生文档合集 | CHEGVA](https://chegva.com/5082.html)
+* [k8s tutorials | k8s 教程](https://github.com/guangzhengli/k8s-tutorials)
